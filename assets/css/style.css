@@ -18349,7 +18349,7 @@ span.select2-selection.select2-selection--single:focus {
   position: relative;
 }
 
-.footer-wrapper::after {
+/* .footer-wrapper::after {
   content: "";
   position: absolute;
   top: 0;
@@ -18358,7 +18358,7 @@ span.select2-selection.select2-selection--single:focus {
   height: 100%;
   background: rgb(0 0 0 / 25%);
   z-index: -1;
-}
+} */
 
 .grid-box-container {
   columns: 4;
